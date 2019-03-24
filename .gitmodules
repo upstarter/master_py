@@ -1,0 +1,4 @@
+[submodule "ops"]
+	path = ops
+	url = git@github.com:ericsteen/master_ops.git
+	branch = master
