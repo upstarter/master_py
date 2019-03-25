@@ -1,6 +1,6 @@
 # MasterPy
 
-Generate a python service mesh node. Contributors welcome, just make a pull request.
+Generate a python node equipped for federation in a service mesh. Contributors welcome, just make a pull request.
 
 ## Installation
 
